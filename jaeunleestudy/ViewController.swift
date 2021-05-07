@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     }
 
     @IBAction func baboo(_ sender: UIButton) {
-        message.text = "재은님때문 버튼이 클릭되었습니다."
+        message.text = "재은님 때문에 버튼이 클릭되었자나요!!!"
         self.message.font = UIFont.systemFont(ofSize: self.message.font.pointSize + 1)
 
     }
